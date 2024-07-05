@@ -47,6 +47,10 @@ int main()
             cout << "The Division of  Two Number " << num1 << " and " << num2 << " is " << num1 / num2 << endl;
             break;
         }
+        
+          case 0:{
+            break;//for go outside the loop 
+          }
 
         default:
         {
